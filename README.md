@@ -1,6 +1,6 @@
 # Hi, I'm Alby
 
-I'm a 19 year old self-taught developer from Essex, UK. I build AI systems, mostly in areas where the stakes actually matter: policing, financial markets, and cryptographic compliance. I don't have a CS degree. Everything here I figured out by building it.
+I'm a 19 year old self-taught developer from london, UK. I build AI systems, mostly in areas where the stakes actually matter: policing, financial markets, and cryptographic compliance. I don't have a CS degree. Everything here I figured out by building it.
 
 ---
 
