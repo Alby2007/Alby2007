@@ -8,7 +8,6 @@ I'm a 19 year old self-taught developer from London, UK. Right now I'm building 
 
 **[Characterly](https://characterly.app/)** is where most of my time goes now: a Discord companion and social-memory platform. Everyone awakens one permanent AI companion in 1:1 DMs; a marketplace layered on top lets people publish and adopt characters — standard character-card imports carry the history over, so a character you already have shows up remembering you. In servers, summoned companions reply under their own name and avatar via webhooks while the bot itself stays invisible plumbing. Memory and the relationship graph are inspectable and consent-gated. (Repo is private for now.)
 
-**Trading Galaxy** is an algorithmic trading intelligence platform I co-founded and built the technical side of. It runs a bot fleet across 535 tickers on 24 global markets, deployed on OCI. The knowledge base is the interesting part: it's an RDF triple store with confidence decay, source authority weighting, contradiction detection, and epistemic stress signals across six signal families. There's a full MCP interface so you can query the whole system in natural language. The KB architecture was deliberately modelled on how Palantir's Ontology layer works: typed entities, predicate vocabulary, causal edges, and adaptive retrieval under uncertainty. The public KB code lives in [Mem-Backend](https://github.com/Alby2007/Mem-Backend).
 
 ---
 
